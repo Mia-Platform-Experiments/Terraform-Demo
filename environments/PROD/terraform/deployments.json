@@ -1,0 +1,6 @@
+{"deployments": {"value": {
+  "my-azure-app-service": {
+    "webapp_name": "app-terraformdemomia-prod",
+    "deployed_service": "python-demo"
+  }
+}}}
