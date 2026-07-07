@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: python-demo
   annotations:
-    mia-platform.eu/version: 14.4.1
+    mia-platform.eu/version: 15.0.0
     apparmor.security.beta.kubernetes.io/allowedProfileNames: runtime/default
     apparmor.security.beta.kubernetes.io/defaultProfileName: runtime/default
     fluentbit.io/parser: pino

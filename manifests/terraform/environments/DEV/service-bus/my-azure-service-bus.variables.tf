@@ -35,6 +35,7 @@ variable "queue_names" {
   description = "List of Service Bus queue names to create."
   type        = list(string)
   default     = [
-  "queue1"
+  "queue1",
+  "queue2"
 ]
 }
