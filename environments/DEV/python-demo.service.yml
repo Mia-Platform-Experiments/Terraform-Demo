@@ -3,7 +3,7 @@ kind: Service
 metadata:
   name: python-demo
   annotations:
-    mia-platform.eu/version: 14.4.1
+    mia-platform.eu/version: 15.0.0
   labels:
     app: python-demo
     app.kubernetes.io/name: python-demo
